@@ -123,7 +123,7 @@ int main(int argc, char** argv) {
 		Number, Operator, Expr, Lispy);
 
 	/* Print Version and Exit Information */
-	puts("JankLisp Version 0.0.0.0.3");
+	puts("JankLisp Version 0.0.0.0.4");
 	puts("Press Ctrl+c to Exit\n");
 	
 	/* In a never ending loop */
